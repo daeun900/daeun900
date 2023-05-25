@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:c2e59c,100:64b3f4&height=300&section=header&text=HELLO&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:c2e59c,100:64b3f4&height=300&section=header&text=HELLO&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=40&)
 
 <div align="center">
-:blush:
+:facepunch: My Tech :facepunch:
 </div>
