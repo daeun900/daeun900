@@ -3,5 +3,5 @@
 
 
 
-<img alt="Html" src ="https://img.shields.io/badge/4chan.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=#006600"/>
+<img alt="Html" src ="https://img.shields.io/badge/4chan.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=006600"/>
 
